@@ -8,8 +8,8 @@ spring:
       server:
         git:
           uri: https://github.com/erandakaanupama/myspace-config.git
-          username: erandakaanupama
-          password: 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
+          username: username
+          password: password
           default-label: master
           timeout: 5
           clone-on-start: true
